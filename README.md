@@ -1,6 +1,6 @@
-[![Header](https://raw.githubusercontent.com/thukyaw11/thukyaw11/master/94887767_244727226643011_8969575083529994240_n.png)
 
-##### Hi, I'm Min Thu Kyaw:
+
+##### Hi there 🧑‍💻, I'm Min Thu Kyaw:
 
 -   :mortar_board: Current working on some freelance projects
 -   :ringed_planet: Looking forward to cntribute organization project
