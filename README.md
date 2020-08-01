@@ -1,4 +1,4 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Header](https://raw.githubusercontent.com/thukyaw11/thukyaw11/master/94887767_244727226643011_8969575083529994240_n.png)
 
 ##### Hi, I'm Min Thu Kyaw:
 
