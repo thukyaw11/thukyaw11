@@ -3,7 +3,7 @@
 ##### Hi there 🧑‍💻, I'm Min Thu Kyaw:
 
 -   :mortar_board: Current working on some freelance projects
--   :ringed_planet: Looking forward to cntribute organization project
+-   :ringed_planet: Looking forward to contribute organization project
 -   :speech_balloon: Ask me about web development, ubuntu commands, full-stack, or literally anything!
 -   :mailbox: You can reach me with the links below
 
