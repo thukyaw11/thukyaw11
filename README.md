@@ -16,11 +16,14 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-php-000000?style=flat&logo=php)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+![DART](https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart)
 
 #### Frameworks I have used
 
 ![LARAVEL](https://img.shields.io/badge/-laravel-000000?style=flat&logo=laravel)
 ![VUE](https://img.shields.io/badge/-VUE%20js-000000?style=flat&logo=Vue.js)
+![NUXT](https://img.shields.io/badge/-Nuxt-000000?style=flat&logo=Nuxt.js)
+![FLUTTER](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter)
 
 ##### Some of the technologies I have worked with
 
