@@ -31,6 +31,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 
+##### My Works
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thukyaw11&theme=radical&hide_langs_below=1&layout=compact">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thukyaw11&show_icons=true&theme=radical&line_height=21">
+</p>
+
 ##### Some of my open source projects( welphat.com isn't on production and API that I used on covid19mm aren't live)
 
 [![covid19mm](<https://img.shields.io/badge/-COVID19 MM-444444?style=flat>)](https://covid19mm.netlify.app/)
