@@ -1,5 +1,5 @@
 
-
+<!--
 ##### Hi there 🧑‍💻, I'm Min Thu Kyaw:
 
 -   :mortar_board: Current working on some freelance projects
@@ -45,4 +45,16 @@
 
 
 ```
+-->
 
+
+<br/>
+<a href="https://www.usatoday.com/in-depth/graphics/2021/03/20/myanmar-military-coup-protests-violence-deaths-burma-videos/6868486002/">
+<p align="center">
+  <img src="https://i.imgur.com/6uklVWM.png"/>
+</p>
+<br/>
+<p align="center">
+  Raise awareness about serious human right violations by the military and police happening in Myanmar. Help us!
+</p>
+</a>
