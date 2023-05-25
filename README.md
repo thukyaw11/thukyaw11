@@ -2,9 +2,9 @@
 
 ##### Hi there 🧑‍💻, I'm Min Thu Kyaw:
 
--   :mortar_board: Current working on some freelance projects
--   :ringed_planet: Looking forward to contribute organization project
--   :speech_balloon: Ask me about web development, ubuntu commands, full-stack, or literally anything!
+-   :mortar_board: Currently working on some freelance projects
+-   :ringed_planet: Looking forward to contribute organizational project
+-   :speech_balloon: Ask me about web development, ubuntu commands, full-stack, or anything!
 -   :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minthukyaw@uit.edu.mm)
