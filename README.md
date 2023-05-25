@@ -1,5 +1,5 @@
 
-<!--
+
 ##### Hi there 🧑‍💻, I'm Min Thu Kyaw:
 
 -   :mortar_board: Current working on some freelance projects
@@ -44,10 +44,9 @@
 [![Welphat.com](<https://img.shields.io/badge/-Welphat.com-444444?style=flat>)](https://welphat.com)
 
 
-```
--->
 
 
+<!--
 <br/>
 <a href="https://www.usatoday.com/in-depth/graphics/2021/03/20/myanmar-military-coup-protests-violence-deaths-burma-videos/6868486002/">
 <p align="center">
@@ -58,3 +57,4 @@
   Raise awareness about serious human right violations by the military and police happening in Myanmar. Help us!
 </p>
 </a>
+-->
