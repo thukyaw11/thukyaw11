@@ -23,6 +23,7 @@
 ![LARAVEL](https://img.shields.io/badge/-laravel-000000?style=flat&logo=laravel)
 ![VUE](https://img.shields.io/badge/-VUE%20js-000000?style=flat&logo=Vue.js)
 ![NUXT](https://img.shields.io/badge/-Nuxt-000000?style=flat&logo=Nuxt.js)
+![VUE](https://img.shields.io/badge/-React%20js-000000?style=flat&logo=React.js)
 ![FLUTTER](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter)
 
 ##### Some of the technologies I have worked with
