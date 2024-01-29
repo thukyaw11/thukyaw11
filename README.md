@@ -28,13 +28,16 @@
 ![REACT](https://img.shields.io/badge/-React%20js-000000?style=flat&logo=React)
 ![NEXT](https://img.shields.io/badge/-Next-000000?style=flat&logo=Next.js)
 ![EXPRESS](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express)
+![NESTJS](https://img.shields.io/badge/-NestJs-ea2845?style=flat&logo=nestjs)
 ![FLUTTER](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter)
+
 
 ##### Some of the technologies I have worked with
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=FFFFFF)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=flat&logo=mongodb&logoColor=00FF00)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-222222?style=flat&logo=firebase&logoColor=FFFF00)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 
